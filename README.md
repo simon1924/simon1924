@@ -2,7 +2,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
+<div>
 <img src="./Icone_Profilo/css.svg" alt="CSS" width="50" height="50">
 <img src="./Icone_Profilo/dotenv.svg" alt="CSS" width="50" height="50">
 <img src="./Icone_Profilo/git.svg" alt="CSS" width="50" height="50">
@@ -15,5 +15,6 @@
 <img src="./Icone_Profilo/react.svg" alt="CSS" width="50" height="50">
 <img src="./Icone_Profilo/typescript.svg" alt="CSS" width="50" height="50">
 <img src="./Icone_Profilo/vscodium.svg" alt="CSS" width="50" height="50">
+</div>
 
 <--! ![Icone](Icone_Profilo/css.svg) -->
