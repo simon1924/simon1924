@@ -17,4 +17,3 @@
 <img src="./Icone_Profilo/vscodium.svg" alt="CSS" width="50" height="50">
 </div>
 
-<--! ![Icone](Icone_Profilo/css.svg) -->
