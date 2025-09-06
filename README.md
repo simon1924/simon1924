@@ -15,4 +15,4 @@
 <img src="./Icone_Profilo/windows.svg" alt="CSS" width="50" height="50">
 </div>
 
-<progress value="90" max="100"></progress>
+
