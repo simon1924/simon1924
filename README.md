@@ -14,6 +14,8 @@
 <img src="./Icone_Profilo/typescript.svg" alt="CSS" width="50" height="50">
 <img src="./Icone_Profilo/windows.svg" alt="CSS" width="50" height="50">
 <img src="./Icone_Profilo/icons8-flutter.svg" alt="CSS" width="50" height="50">
+<img src="./Icone_Profilo/icons8-php-96.png" alt="CSS" width="50" height="50">
+<img src="./Icone_Profilo/icons8-ansible-96.png" alt="CSS" width="50" height="50">
 </div>
 
 
