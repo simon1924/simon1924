@@ -13,6 +13,7 @@
 <img src="./Icone_Profilo/react-native.svg" alt="CSS" width="50" height="50">
 <img src="./Icone_Profilo/typescript.svg" alt="CSS" width="50" height="50">
 <img src="./Icone_Profilo/windows.svg" alt="CSS" width="50" height="50">
+<img src="./Icone_Profilo/icon8-dart.svg" alt="CSS" width="50" height="50">
 <img src="./Icone_Profilo/icons8-flutter.svg" alt="CSS" width="50" height="50">
 </div>
 
